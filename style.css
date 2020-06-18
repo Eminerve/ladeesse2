@@ -1,7 +1,7 @@
 body{
 margin: 0;
 width: 100%;
-background-color: #fae7cb;
+background-color: #fff;
 }
 
 /* -------------------------- Fonts -------------------------- */
@@ -51,63 +51,11 @@ display: block;
  				top: 15rem;
  				font-size: 300%;
  				margin:auto;
-        color: #fae7cb;
+        color: #FFEAD0;
  			}
-/*
- .animate span {
- 				display: inline-block;
- 			}
- .animate span:nth-of-type(1) {
- 				animation-delay: 0s;
- 			}
- .animate span:nth-of-type(2) {
- 				animation-delay: 0.2s;
- 			}
- .animate span:nth-of-type(3) {
- 				animation-delay: 0.4s;
- 			}
- .animate span:nth-of-type(4) {
- 				animation-delay: 1s;
- 			}
- .animate span:nth-of-type(5) {
- 				animation-delay: 1.2s;
- 			}
- .animate span:nth-of-type(6) {
- 				animation-delay: 1.4s;
- 			}
- .animate span:nth-of-type(7) {
- 				animation-delay: 2s;
- 			}
-.animate span:nth-of-type(8) {
- 				animation-delay: 2.4s;
- 			}
-
-.seven span
-	{
- 				text-align: center;
- 				color: #fae7cb;
- 				opacity: 0;
- 				/*text-shadow: 0.01em 0.01em #000;
- 				transform: translate(-150px, 0) scale(.3);
- 				animation: leftRight 4s forwards;
- 			}
-/*
- @keyframes leftRight
- 			{
- 			80%
- 			{
- 				transform: translate(0) scale(2);
- 				opacity: 0;
- 			}
-
- 			100%
- 			{
- 				transform: translate(0) scale(1);
- 				opacity: 1;
- 			}
- 		}*/
 
 .scrolling_image{
+  display: none;
   position: absolute;
   bottom: 2rem;
   right: 3rem;

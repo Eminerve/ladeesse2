@@ -88,8 +88,8 @@
 			justify-content: center;
 			margin: auto;
 			z-index:1000;
-			background-color: #fae7cb;
-			box-shadow: 0px 1px 8px #581c0c;
+			background-color: #fff;
+			box-shadow: 0px 1px 12px #581c0c;
   }
 
   #logo
