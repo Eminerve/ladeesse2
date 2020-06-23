@@ -16,9 +16,9 @@
     <div id="contener">
         <a href="#navig">
     		<video src="video/chocolat1.mp4" autoplay width="100%" height="100%" muted preload="auto" loop></video>
-    		<div class="animate seven">
+    		<!-- <div class="animate seven">
     			<span>L</span><span>a</span>&nbsp;<span>D</span><span>é</span><span>e</span><span>s</span><span>s</span><span>e</span>
-    		</div>
+    		</div> -->
         <div class="scrolling_image">
           <a href="#navig"><img src="images/fleche.gif" alt="images flèche vers le bas"></a>
         </div></a>
@@ -31,7 +31,7 @@
 
 
       <div id="bienvenue">
-        <h1>Le culte du Cacao moderne</h1>
+        <h1>La Déesse du Cacao</h1>
         <p>Depuis plus de trente ans nous avons le plaisir de participer à vos moments de bonheur.<br> De la gourmandise au gâteau de mariage, nous sommes à vos cotés pour satisfaire toutes vos envies.</p>
       </div>
 
