@@ -74,7 +74,7 @@
   {
 		font-family: 'Lobster_1.3',serif;
 		margin-left: 3rem;
-		color: #581c0c;
+		color: #000;
   }
 
   /* -------------------------- Header -------------------------- */
@@ -89,7 +89,7 @@
 			margin: auto;
 			z-index:1000;
 			background-color: #fff;
-			box-shadow: 0px 1px 12px #581c0c;
+			box-shadow: 0px 1px 12px #000;
   }
 
   #logo
@@ -122,7 +122,7 @@
   nav a
   {
       font-size: 1rem;
-      color: #581c0c;
+      color: #000;
       padding-bottom: 3px;
       text-decoration: none;
       text-transform: uppercase;
@@ -130,7 +130,7 @@
 
   nav a:hover
   {
-  	  border-bottom: 1px solid #581c0c;
+  	  border-bottom: 1px solid #000;
   }
   </style>
 

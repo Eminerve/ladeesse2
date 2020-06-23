@@ -15,7 +15,7 @@
   <div class="entiere">
     <div id="contener">
         <a href="#navig">
-    		<video src="video/chocolat1.mp4" autoplay width="100%" height="100%" muted preload="auto" loop></video>
+    		<video src="video/ezgif.com-crop.mp4" autoplay width="100%" height="100%" muted preload="auto" loop></video>
     		<!-- <div class="animate seven">
     			<span>L</span><span>a</span>&nbsp;<span>D</span><span>é</span><span>e</span><span>s</span><span>s</span><span>e</span>
     		</div> -->
@@ -37,25 +37,25 @@
 
       <section class="categories">
         <div class="element patisserie">
-          <img src="images/patisserie.png" alt="patisserie pâtisserie la déesse">
+          <img src="images/patisserie_noire.png" alt="patisserie pâtisserie la déesse">
           <div class="bouton patisserie">
             <button type="button" name="voir">PÂTISSERIE</button>
           </div>
         </div>
         <div class="element chocolaterie">
-          <img src="images/chocolaterie.jpg" alt="chocolat la déesse">
+          <img src="images/chocolaterie_noire.jpg" alt="chocolat la déesse">
           <div class="bouton chocolaterie">
             <button type="button" name="voir">CHOCOLATERIE</button>
           </div>
         </div>
         <div class="element confiserie">
-          <img src="images/confiserie.jpg" alt="confiserie la déesse">
+          <img src="images/confiserie_noire.jpg" alt="confiserie la déesse">
           <div class="bouton confiserie">
             <button type="button" name="voir">CONFISERIE</button>
           </div>
         </div>
         <div class="element glacerie">
-          <img src="images/glacerie.jpg" alt="glace la déesse">
+          <img src="images/glacerie_noire.jpg" alt="glace la déesse">
           <div class="bouton glacerie">
             <button type="button" name="voir">GLACERIE</button>
           </div>

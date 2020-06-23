@@ -51,7 +51,7 @@ display: block;
  				top: 15rem;
  				font-size: 300%;
  				margin:auto;
-        color: #FFEAD0;
+        color: #000;
  			}
 
 .scrolling_image{
@@ -85,7 +85,7 @@ display: block;
 
 #bienvenue h1{
   padding-top: 4rem;
-  color: #581c0c;
+  color: #000;
   margin: auto;
   width: 70%;
   font-size: 3rem;
@@ -96,7 +96,7 @@ display: block;
 
 #bienvenue p{
   padding-top: 2rem;
-  color: #581c0c;
+  color: #000;
   margin: auto;
   width: 70%;
   font-size: 1rem;
@@ -153,7 +153,7 @@ display: block;
   .bouton p{
     padding: 4px;
     font-weight: 300;
-    color: #777;
+    color: #000;
   }
 
   button{
