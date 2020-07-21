@@ -59,9 +59,9 @@
         </div>
         <div class="polygon1">
           <div class="text">
-            <h1>Entremets</h1><br>
+            <h1>Réduits</h1><br>
             <p>Pour un miximum de fraîcheur, <br>nos entremets changent selon les saisons</p><br>
-            <h2 class="prix">35€/le kilo</h2>
+            <h2 class="prix">1,5€/la pièce</h2>
           </div>
         </div>
       </div>
@@ -72,9 +72,9 @@
 
         <div class="polygon1">
           <div class="text">
-            <h1>Macarons</h1><br>
+            <h1>Petits Fours Sucrés</h1><br>
             <p>Pour un miximum de fraîcheur, <br>nos entremets changent selon les saisons</p><br>
-            <h2 class="prix">1,5€/la pièce</h2>
+            <h2 class="prix">56€/le kilo</h2>
           </div>
         </div>
 
