@@ -39,7 +39,7 @@
         <div class="element patisserie">
           <img src="images/patisserie.png" alt="patisserie pâtisserie la déesse">
           <div class="bouton patisserie">
-            <button type="button" name="voir">PÂTISSERIE</button>
+            <a href="patisserie.php"><button type="button" name="voir">PÂTISSERIE</button></a>
           </div>
         </div>
         <div class="element chocolaterie">

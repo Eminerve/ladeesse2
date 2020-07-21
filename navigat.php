@@ -9,7 +9,7 @@
 	<div class="nav">
 
 		<div id="logo">
-			<h1 class="titre1">La Déesse</h1>
+			<a href="index.php"><h1 class="titre1">La Déesse</h1></a>
 		</div>
 
 		<nav>
@@ -98,6 +98,10 @@
     flex-direction: row;
     flex: 1;
   }
+
+	#logo a{
+		text-decoration: none;
+	}
 
   /* ------------------------ Navigation ------------------------ */
 
